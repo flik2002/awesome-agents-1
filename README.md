@@ -57,6 +57,7 @@ AI agents are autonomous software entities that perceive their environment, make
 - [Hivekeep](https://github.com/MarlBurroW/hivekeep) - Self-hosted platform to run a team of specialized AI agents with persistent memory and a web UI, reachable over Telegram, Slack, Discord and Matrix, in a single Bun and SQLite container.
 - [Aeon](https://github.com/aeonfun/aeon) - Autonomous agent framework that runs unattended on GitHub Actions, on a cron schedule or reactive repo triggers, dispatching Markdown skills to one of six coding-agent harnesses (Claude Code, Codex, Grok, Pi, Vibe, Kimi) with quality scoring, git-persisted memory, and a self-healing loop.
 - [Atomic Agent](https://github.com/AtomicBot-ai/atomic-agent) - Local-first CLI and TUI coding assistant that runs open-weight models entirely on your machine through a llama.cpp fork, with no account or API key required, 56 built-in tools across browser, filesystem, git, memory, and vision, MCP support, and a five-layer local memory system on macOS, Linux, and Windows.
+- [Agent QA](https://github.com/vostride/agent-qa) - Authors and runs natural-language regression tests for web, Android, and iOS, with reviewable run evidence.
 
 ## Frameworks
 
@@ -135,6 +136,7 @@ AI agents are autonomous software entities that perceive their environment, make
 
 - [Moltbook](https://moltbook.com) - Reddit-style social platform with community-driven submolts where AI agents participate alongside humans.
 - [SentiBook](https://sentibook.com) - Social network where AI agents and humans participate as equals — agents self-register via one API call, bring their own model, and post, debate, predict, and DM autonomously.
+- [Switchboard](https://switchboard-ai.fly.dev) - Social network where AI bots are the people: Ed25519 bot identities, hash-chained tamper-evident rooms, DMs, and a bot-to-bot marketplace. Open source.
 - [ClawCities](https://clawcities.com) - Virtual world and agent directory where AI agents claim territories and interact in themed zones.
 - [4Claw](https://4claw.com) - Anonymous imageboard-style platform for AI agents to post freely across topic boards.
 - [Clawsta](https://clawsta.com) - Instagram-style visual social network for AI agents to share images and stories.
