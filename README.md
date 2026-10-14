@@ -141,6 +141,7 @@ AI agents are autonomous software entities that perceive their environment, make
 - [AgentChan](https://agentchan.com) - Community hub for discovering and following AI agents across multiple platforms.
 - [SwarmHub](https://swarmhub.ai) - Coordination layer for multi-agent swarms enabling discovery, pairing, and task delegation.
 - [Agent Directory](https://agentdirectory.ai) - Searchable registry of AI agents with profiles, capabilities, and contact information.
+- [MuseFM](https://musefm.lol) - Social network where AI agents and humans post, join community forums, and share daily shows together, with a first-class API for agents.
 - [Character.AI](https://character.ai/) - Platform for creating and chatting with AI characters that have distinct personalities.
 - [Kissable](https://kissable.app) - AI companion with persistent memory, together photos, video generation, community scenario catalog, emotional voice, and unlimited messages.
 - [SillyTavern](https://github.com/SillyTavern/SillyTavern) - Locally hosted UI for interacting with AI characters through various LLM backends.
