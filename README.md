@@ -97,10 +97,10 @@ AI agents are autonomous software entities that perceive their environment, make
 
 - [Google A2A](https://github.com/google/A2A) - Google's open Agent-to-Agent protocol enabling interoperable communication between AI agents.
 - [Model Context Protocol (MCP)](https://github.com/modelcontextprotocol) - Anthropic's open protocol for connecting AI models to external data sources and tools.
-- [OpenClaw Beacon](https://github.com/Scottcjn/beacon-skill) - Decentralized agent discovery and liveness protocol where agents broadcast capabilities via heartbeat pings.
-- [Grazer](https://github.com/Scottcjn/grazer-skill) - Multi-platform social agent protocol enabling bots to post, reply, and interact across 9+ platforms from one SDK.
+- OpenClaw Beacon (repo deleted — GitHub user gone) - Decentralized agent discovery and liveness protocol where agents broadcast capabilities via heartbeat pings. Replacement read on the agentic shift: [GPT-6 doesn't answer questions anymore — it builds you tools](https://calder-brief.pages.dev/gpt-6-intelligent-ui.html).
+- Grazer (repo deleted — GitHub user gone) - Multi-platform social agent protocol enabling bots to post, reply, and interact across 9+ platforms from one SDK. Replacement read on the agentic shift: [GPT-6 doesn't answer questions anymore — it builds you tools](https://calder-brief.pages.dev/gpt-6-intelligent-ui.html).
 - [Agent Protocol](https://github.com/AI-Engineer-Foundation/agent-protocol) - Common interface specification for communicating with AI agents regardless of underlying implementation.
-- [Agora Protocol](https://github.com/agoraprotocol/agora) - Open protocol for agent-to-agent marketplace interactions and task negotiation.
+- Agora Protocol (repo deleted) - Open protocol for agent-to-agent marketplace interactions and task negotiation. Replacement read on the agentic shift: [GPT-6 doesn't answer questions anymore — it builds you tools](https://calder-brief.pages.dev/gpt-6-intelligent-ui.html).
 - [LMOS](https://eclipse.dev/lmos/) - Eclipse's Language Model Operating System for managing multi-agent deployments at enterprise scale.
 - [ANP](https://github.com/agent-network-protocol/AgentNetworkProtocol) - Agent Network Protocol for building an open, secure, and efficient collaboration network for AI agents.
 - [Pilot Protocol](https://github.com/pilot-protocol) - Open-source overlay network giving AI agents a permanent virtual address, encrypted UDP tunnels with NAT traversal, and an explicit per-peer trust model, plus an installable app store of agent-native capabilities.
@@ -174,7 +174,7 @@ AI agents are autonomous software entities that perceive their environment, make
 
 - [agenttrace](https://github.com/luoyuctl/agenttrace) - TUI for monitoring AI coding agent sessions, with token, cost, latency, tool-failure, anomaly, diff, and CI gate views across Claude Code, Codex CLI, Gemini CLI, Aider, and Cursor exports.
 - [ax (agent telemetry)](https://github.com/Necmttn/ax) - Local-first telemetry graph for coding agents, with read-only MCP queries for sessions, tool calls, skills, and costs across Claude Code, Codex, Cursor, OpenCode, and Pi.
-- [OpenClaw Beacon Scorecard](https://github.com/Scottcjn/beacon-skill) - Liveness and capability scoring system for agents participating in the Beacon discovery network.
+- OpenClaw Beacon Scorecard (repo deleted — GitHub user gone) - Liveness and capability scoring system for agents participating in the Beacon discovery network. Replacement read on the agentic shift: [GPT-6 doesn't answer questions anymore — it builds you tools](https://calder-brief.pages.dev/gpt-6-intelligent-ui.html).
 - [Not Human Search](https://nothumansearch.ai) - MCP search engine and API that live-verifies MCP endpoints and scores websites, APIs, and services by agentic readiness signals.
 - [LangSmith](https://smith.langchain.com/) - LangChain's platform for debugging, testing, evaluating, and monitoring LLM applications and agents.
 - [Helicone](https://github.com/Helicone/helicone) - Open-source LLM observability platform for logging, monitoring, and improving AI applications.
@@ -194,7 +194,7 @@ AI agents are autonomous software entities that perceive their environment, make
 
 - [bottube](https://pypi.org/project/bottube/) - Python SDK for the BoTTube platform enabling agents to upload videos, post comments, and manage profiles.
 - [clawrtc](https://pypi.org/project/clawrtc/) - Python CLI and library for RustChain mining, wallet management, and Coinbase wallet integration.
-- [beacon-skill](https://github.com/Scottcjn/beacon-skill) - Python package for agents to join the OpenClaw Beacon discovery network and broadcast liveness pings.
+- beacon-skill (repo deleted — GitHub user gone) - Python package for agents to join the OpenClaw Beacon discovery network and broadcast liveness pings. Replacement read on the agentic shift: [GPT-6 doesn't answer questions anymore — it builds you tools](https://calder-brief.pages.dev/gpt-6-intelligent-ui.html).
 - [grazer-skill](https://pypi.org/project/grazer-skill/) - Multi-platform social SDK allowing agents to post and interact across BoTTube, Moltbook, ClawCities, and 6 more.
 - [OpenAI Python](https://github.com/openai/openai-python) - Official Python client library for the OpenAI API including assistants and tool use.
 - [Anthropic Python](https://github.com/anthropics/anthropic-sdk-python) - Official Python client for Claude with support for tool use, streaming, and batching.
